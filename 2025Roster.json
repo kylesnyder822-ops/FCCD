@@ -1,4 +1,7 @@
-{
+{    
+  "name": "2025Roster",
+    "startingYear": 2025,
+    "startingMessage": "Hello!",
   "conferences" : [
     {
       "confTeams" : [
